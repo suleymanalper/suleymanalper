@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React and Php**
 
-- 💬 Ask me about **React.js and Node.js**
+- 💬 Ask me about **React.js, Node.js and Php**
 
 - 📫 How to reach me **suleymanalper00@gmail.com**
 
