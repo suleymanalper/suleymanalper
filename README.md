@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Backend Developer**
   
-- 🤖 I’m also actively improving myself in the field of Artificial Intelligence.
+- 🤖 I’m also actively improving myself in the field of **Artificial Intelligence**
 
 - 💬  Feel free to ask me about **backend development** and my journey into **Al**
 
